@@ -1,7 +1,7 @@
 def new_hash
   new_hash = {}
 def my_hash
-  my_hash = {age : 36}
+  my_hash = {age: 36}
 end
 
 def pioneer
